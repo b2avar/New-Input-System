@@ -10,8 +10,8 @@
                     "type": "Button",
                     "id": "77e8cfdb-90e4-440b-a000-65f63900e87d",
                     "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": "",
+                    "processors": "Invert",
+                    "interactions": "Hold,SlowTap",
                     "initialStateCheck": false
                 }
             ],
